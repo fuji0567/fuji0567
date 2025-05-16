@@ -15,4 +15,3 @@
 <img src="https://github.com/user-attachments/assets/5f621aa1-ee81-40d9-a8f2-f637cadb4448" width="70">
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuji0567&show_icons=true&theme=radical)
